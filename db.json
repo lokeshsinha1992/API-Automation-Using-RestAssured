@@ -1,0 +1,76 @@
+{
+  "ping": {
+    "result": "pong"
+  },
+  "users": [
+    {
+      "email": "pramod@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "persons": [
+    {
+      "firstName": "dasd",
+      "lastName": "doe",
+      "age": 26,
+      "id": 1,
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    },
+    {
+      "firstName": "Amit",
+      "lastName": "Singh",
+      "id": 5,
+      "address": "ga ada s adas",
+      "phoneNumbers": "9823232323"
+    },
+    {
+      "firstName": "Jack",
+      "lastName": "aaaaa asd",
+      "address": "asd asd aweqwe asddfdfg",
+      "age": 33,
+      "phoneNumbers": "4454-1554-4545",
+      "id": 6
+    },
+    {
+      "firstName": "John",
+      "lastName": "doe",
+      "age": 26,
+      "id": 7,
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    },
+    {
+      "firstName": "John",
+      "lastName": "doe",
+      "age": 26,
+      "id": 8,
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    },
+    {
+      "firstName": "John",
+      "lastName": "doe",
+      "age": 26,
+      "id": 9,
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    },
+    {
+      "firstName": "dasd",
+      "lastName": "doe",
+      "age": 26,
+      "id": 22,
+      "address": "Chicago,USA",
+      "phoneNumbers": "123-456-78910"
+    },
+    {
+      "firstName": "Peson 17",
+      "lastName": "last name 17",
+      "age": 32,
+      "id": 17,
+      "address": "address asd",
+      "phoneNumbers": "33213-2232-565"
+    }
+  ]
+}
